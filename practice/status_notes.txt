@@ -1,0 +1,7 @@
+Student Name: Chrispin Odiwuor
+
+What I check before committing:
+I run git status to see which files are modified or untracked. I inspect changes with git diff and review staged changes with git diff --cached. I check that I have not included passwords, tokens, generated files, or unrelated work. I also verify that the files belong to the task I am completing.
+
+What I am committing now and why:
+I am committing these notes to record my inspect-before-commit habit. This is a separate commit because it documents a different purpose from my commit plan.
