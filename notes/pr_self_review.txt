@@ -1,0 +1,13 @@
+Student Name: Chrispin Odiwuor
+
+What changed:
+I updated README.md with a section called How I use Git carefully. It contains four habits covering git status, git diff, focused staging, and clear commit messages. These habits explain how I plan to make my work more reliable and easier to review.
+
+How I verified the change:
+I read README.md to confirm that my name and GitHub username remain at the top. I checked that the new section contains all four habits. I also reviewed git diff to inspect the changes before staging and committing.
+
+One possible improvement a reviewer might suggest:
+A reviewer might suggest adding a short example of how I use git diff before a commit. They might also recommend making the habits more specific to different project situations.
+
+Professional response I would give:
+Thank you for the suggestions. I would consider adding a practical example to make the README more useful. I would review any proposed changes and update the documentation while keeping it clear and concise.
