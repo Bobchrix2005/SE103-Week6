@@ -1,0 +1,13 @@
+Student Name: Chrispin Odiwuor
+
+Patterns in my .gitignore:
+.DS_Store
+*.log
+temp/
+secret.env
+
+What git status showed about the ignored files:
+Git status showed the allowed .gitignore file but did not list secret.env, temp/temp_note.txt, or practice/app.log as untracked files. I used git check-ignore to verify that the ignore rules matched these files. This confirms that Git is ignoring the test files instead of preparing them for a commit.
+
+Why committing secrets is dangerous:
+Secrets such as API keys and passwords can allow unauthorized access to accounts or services. Once pushed to GitHub, they may be copied or accessed by others, even if the file is deleted later. Real exposed credentials should be revoked or rotated immediately. I used only a dummy example value for this exercise.
