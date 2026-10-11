@@ -1,0 +1,12 @@
+Student Name: Chrispin Odiwuor
+GitHub Username: Bobchrix2005
+Repository: SE103-Week6
+Repository URL: https://github.com/Bobchrix2005/SE103-Week6
+
+Git habits I demonstrated this week:
+I made separate commits for separate purposes instead of grouping unrelated changes together. I checked Git status and reviewed changes before committing. I created a .gitignore file and verified that temporary files, log files, and the dummy secret file were ignored. I improved vague commit messages by making them specific and descriptive. I updated my README on a separate branch and used a pull request to review and merge the change.
+
+One mistake-prevention habit I will keep:
+I will run git status before staging or committing so I know which files are changed. I will inspect staged changes with git diff --cached and make sure no secrets or unrelated files are included. I will use clear commit messages and review my work before pushing it to GitHub.
+
+All required files are on main: Yes
