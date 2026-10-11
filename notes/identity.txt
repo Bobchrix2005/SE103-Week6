@@ -1,0 +1,5 @@
+Full Name: Chrispin Odiwuor
+GitHub Username: Bobchrix2005
+Date Started: 2026-10-11
+Auth Method: PAT
+One Git habit I want to improve: I want to inspect my changes with git status and git diff before committing.
